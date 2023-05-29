@@ -1,0 +1,52 @@
+Toyota GR Supra
+
+Adaptive Variable Suspension (AVS)
+Standard
+-
+-
+Bore x Stroke (mm)
+82.0 x 94.6
+-
+-
+Driven Wheels
+RWD
+-
+-
+Fuel System
+Petrol
+-
+-
+Maximum Power (kW @ r/min)
+285 5800-6500
+-
+-
+Maximum Torque (Nm @ r/min)
+500 1800-5000
+-
+-
+Number of Cylinders and Arrangement
+Inline 6
+-
+-
+Starting System
+Push Start
+-
+-
+Suspension (Front)
+MacPherson
+-
+-
+Suspension (Rear)
+Multilink
+-
+-
+Transmission
+Manual 6-speed
+-
+-
+Turbo Charger
+Standard Twin Scroll
+-
+-
+Engine capacity (litre)
+3.0
